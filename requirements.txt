@@ -1,5 +1,5 @@
-python-math
 requests
-json
+python-math
+pypi-json
+os-sys
 streamlit
-sys
