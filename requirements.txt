@@ -3,3 +3,4 @@ python-math
 pypi-json
 os-sys
 streamlit
+py -m pip install --upgrade pip
